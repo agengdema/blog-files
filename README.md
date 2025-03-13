@@ -7,8 +7,8 @@ This repository contains favicon and related files for the blog [agengdema.my.id
 These files are hosted via GitHub Pages and can be used in the blog:
 
 - **Favicon & Icons:**
-  - ![Favicon 16x16](https://agengdema.github.io/blog-files/favicon-16x16.png) [`favicon-16x16.png`](https://agengdema.github.io/blog-files/favicon-16x16.png)
-  - ![Favicon 32x32](https://agengdema.github.io/blog-files/favicon-32x32.png) [`favicon-32x32.png`](https://agengdema.github.io/blog-files/favicon-32x32.png)
+  - [`favicon-16x16.png`](https://agengdema.github.io/blog-files/favicon-16x16.png)
+  - [`favicon-32x32.png`](https://agengdema.github.io/blog-files/favicon-32x32.png)
   - [`apple-touch-icon.png`](https://agengdema.github.io/blog-files/apple-touch-icon.png)
   - [`android-chrome-192x192.png`](https://agengdema.github.io/blog-files/android-chrome-192x192.png)
   - [`android-chrome-512x512.png`](https://agengdema.github.io/blog-files/android-chrome-512x512.png)
