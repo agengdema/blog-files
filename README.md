@@ -39,4 +39,4 @@ This repository is maintained for personal blog use. Feel free to reference it b
 
 ## Logo
 The logo used in this repository is inspired by a design from Freepik and has been modified.  
-Credit: [Freepik](https://www.freepik.com/).
+Credit: [Freepik](https://www.freepik.com/) and [Rawpixel](https://www.rawpixel.com/).
