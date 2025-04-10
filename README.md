@@ -36,7 +36,3 @@ Add the following lines to your Blogger theme to use these assets:
 
 ### License
 This repository is maintained for personal blog use. Feel free to reference it but do not hotlink the files for external projects.
-
-## Logo
-The logo used in this repository is inspired by a design from Freepik and has been modified.  
-Credit: [Freepik](https://www.freepik.com/) and [Rawpixel](https://www.rawpixel.com/).
